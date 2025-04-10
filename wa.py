@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
 import time
 
-contacts = ["Alice", "Bob", "Charlie"]
+contacts = ["Bob", "Charlie"]
 
 group_name = "My Test Group"
 
